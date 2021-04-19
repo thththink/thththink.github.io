@@ -21,7 +21,7 @@ user:
   name: 해안
   pic: /assets/img/cat.jpg
   picAlt: "hey-ahn"
-  job: student
+  job: #
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
