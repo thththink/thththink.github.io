@@ -1,6 +1,6 @@
 ---
 title: 만취 - OHIORABBIT
-categories: [흥]
+categories: [음]
 comments: true
 ---
 

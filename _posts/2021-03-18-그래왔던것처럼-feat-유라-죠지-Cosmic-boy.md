@@ -1,6 +1,6 @@
 ---
 title: 그래왔던것처럼(feat.유라) - 죠지, Cosmic boy
-categories: [흥]
+categories: [음]
 comments: true
 ---
 

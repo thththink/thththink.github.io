@@ -1,6 +1,6 @@
 ---
 title: 멀로 (merlot) - 나플라 (nafla)
-categories: [흥]
+categories: [음]
 comments: true
 ---
 
